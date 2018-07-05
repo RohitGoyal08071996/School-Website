@@ -1,4 +1,4 @@
 # School-Website
 Full Stack School Website
 
-URL : http://crestuniversity.00webhosting.com
+URL : https://crestuniversity.000webhostapp.com/
